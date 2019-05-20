@@ -8,3 +8,6 @@ Strings, Doubles and Ints. It also provided me with my first hands-on practice w
 functionality, inevitably broke something, and had to go back and figure out where the discrepency was between what I
 thought I had told the computer to do, and I what I had actually told the computer to do. There are a lot of things 
 I would probably do differently now that I know more about MVC and more elegant syntax for optionals, but it mostly works!
+
+
+<img src="https://github.com/Zinkspieler/Calculator/blob/master/Calculator/Screenshot.png" width="350">
